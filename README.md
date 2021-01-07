@@ -32,7 +32,7 @@ Techologies:
 ​
 ​
 ## Usage 
-[![Watch the video](https://imgur.com/0pkx4pL.png)](https://youtu.be/5tTict3qYoI)
+[![Watch the video](https://github.com/dhbhernandez/workout-tracker/blob/main/workout-tracker-graph.png)](https://youtu.be/5tTict3qYoI)
 ​
 ## License
     MIT
