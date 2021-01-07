@@ -13,7 +13,7 @@
 This fitness tracker allows you to track the progress for your workouts.
 
 ## Instructions
-<!-- * go to to the website [Heroku App](https://floating-thicket-44314.herokuapp.com/) -->
+* go to to the website [Heroku App](https://secret-meadow-96322.herokuapp.com/)
 ​
 * Create a username using your email and password.
 ​
@@ -29,7 +29,7 @@ Techologies:
     - 
     - GitHUb Repository
     - npm packages
-    <!-- - [Heroku App](https://floating-thicket-44314.herokuapp.com/) -->
+    - [Heroku App](https://secret-meadow-96322.herokuapp.com/)
 ​
 ​
 ## Usage 
