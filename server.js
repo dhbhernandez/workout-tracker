@@ -18,13 +18,8 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workoutdb", { u
 
 
 //view
-app.get("/exercise", (req, res) => {
-    res.sendFile(path.join(__dirname, "/public/exercise.html"));
-});
-
-app.get("/stats", (req, res) => {
-    res.sendFile(path.join(__dirname, "/public/stats.html"));
-});
+require("./routes/apiRoutes")(app);
+require("./routes/htmlRoutes")(app);
 
 
 
