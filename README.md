@@ -14,13 +14,7 @@ This fitness tracker allows you to track the progress for your workouts.
 
 ## Instructions
 * go to to the website [Heroku App](https://secret-meadow-96322.herokuapp.com/)
-​
-* Create a username using your email and password.
-​
-* Enjoy Lexi app
-​
-* Don't forget to logout when you are done.
-​
+​​
 Techologies:
     - JavaScript
     - Node JS
